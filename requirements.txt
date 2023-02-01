@@ -1,0 +1,5 @@
+uvicorn
+requests
+django
+python-dotenv
+django-crispy-forms
